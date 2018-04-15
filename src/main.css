@@ -1,0 +1,17 @@
+.main {
+  text-align: center;
+}
+
+.boxes {
+  display: flex;
+  width: 500px;
+  margin: 20px auto;
+  justify-content: space-between;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  margin: 20px auto;
+}
